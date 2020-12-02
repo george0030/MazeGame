@@ -1,0 +1,28 @@
+To unlock view of the full map, type 'godmode' into the console. To return back to normal view, type 'sorry'.
+The godmode will show the path to the crown/exit with dollar signs ($). It will make you invulnerable against the minotaur.
+
+Walkthrough guide (the same as given by the 'help' command): 
+
+
+Your Goal: Recover king Minos' crown from the maze. But beware the minotaur.
+Once you take his crown, it will start chasing you until you manage to escape or you end up as its dinner. More specifically, you lose if you share a tile with the minotaur while it is not stunned.
+You do, however have a magnesium flare which can distract the minotaur for 2 turns.
+You win if you manage to escape the maze with the crown
+Remember! Patience is key! You'll need to look for the right opportunity to strike!
+Map legend:
+~ -> Unknown territory
+O and #  ->  Walls
+. -> Floor
+H -> You
+M  -> Minotaur
+Å  -> Crown
+Commands:
+help -> Shows the objective, map legend and commands
+map -> Reprints the map
+take -> Takes an item (the crown)
+stun -> Stuns the minotaur (you must be next to it)! One-time use only.
+'skip' or 'z' -> Skip a turn
+w -> Move north
+a -> Move west
+s -> Move south
+d -> Move east
